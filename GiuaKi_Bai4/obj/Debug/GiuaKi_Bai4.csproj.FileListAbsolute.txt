@@ -1,0 +1,11 @@
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\bin\Debug\GiuaKi_Bai4.exe.config
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\bin\Debug\GiuaKi_Bai4.exe
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\bin\Debug\GiuaKi_Bai4.pdb
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.csprojAssemblyReference.cache
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.AddForm.resources
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.MainForm.resources
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.Properties.Resources.resources
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.csproj.GenerateResource.cache
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.csproj.CoreCompileInputs.cache
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.exe
+D:\DotNet\ThayPhuong\GiuaKi_Bai4\GiuaKi_Bai4\obj\Debug\GiuaKi_Bai4.pdb
